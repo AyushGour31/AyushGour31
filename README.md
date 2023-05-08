@@ -1,5 +1,5 @@
 ### Hi there! 👋<br>How are you doing?
-### I'm Ayush!🤝<br>Nice to meet you!! 😁
+### I'm Ayush! 🤝<br>Nice to meet you!! 😁
 
 # 💫 About Me:
 🔭 I’m a BCA Student<br>🌱 I’m currently learning Full Stack Web Development
