@@ -1,7 +1,7 @@
 ### Hi there! 👋
-How are you doing?
+## How are you doing?
 ### I'm Ayush! 
-Nice to meet you!! 😁
+## Nice to meet you!! 😁
 
 # 💫 About Me:
 🔭 I’m a BCA Student<br>🌱 I’m currently learning Full Stack Web Development
