@@ -1,4 +1,4 @@
-### Hi there! 👋<br>How are you doing?
+<!--### Hi there! 👋<br>How are you doing?
 ### I'm Ayush! 🤝<br>Nice to meet you!! 😁
 
 # 💫 About Me:
@@ -24,4 +24,55 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=AyushGour31&icon=5&color=2)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+ Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+# Hi there, I'm Jane Doe 👋
+
+![Profile Views](https://komarev.com/ghpvc/?username=janedoe)
+
+I'm a Full Stack Developer passionate about creating web applications that make a positive impact. I enjoy hiking 🏞️ and experimenting with new recipes 🍳 in my free time.
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=janedoe&show_icons=true&count_private=true&hide=stars&theme=radical)
+
+## 💼 Skills & Technologies
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+## 🚀 Projects
+
+### [RecipeBox](https://github.com/janedoe/recipebox)
+![RecipeBox](images/recipebox.png)
+A web app to manage and share your favorite recipes with others.
+
+### [HikeTracker](https://github.com/janedoe/hiketracker)
+![HikeTracker](images/hiketracker.png)
+Keep track of your hiking adventures and explore new trails with this interactive app.
+
+## 📫 Contact Me
+
+Let's connect and chat! You can reach me via:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-JaneDoe-blue)](https://www.linkedin.com/in/janedoe/)
+[![Twitter](https://img.shields.io/badge/Twitter-JaneDoeDev-blue)](https://twitter.com/janedoedev)
+
+## 📝 Latest Blog Posts
+
+- [10 Tips for Writing Clean and Maintainable Code](https://janedoe.dev/blog/clean-code-tips)
+- [Exploring React Hooks: useState and useEffect](https://janedoe.dev/blog/react-hooks)
+
+## 🌱 I'm Currently Learning
+
+- Exploring serverless architecture and AWS Lambda
+- Improving my UI/UX design skills
+
+## ❤️ Favorite Quote
+
+> "The only way to do great work is to love what you do." - Steve Jobs
+
+
